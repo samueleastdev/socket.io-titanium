@@ -1,1 +1,0 @@
-/Users/samueleast/Documents/Titanium_Studio_Workspace/socket.io-titanium/Resources/ti-websocket-client/lib/events.js

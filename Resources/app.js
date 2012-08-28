@@ -5,6 +5,7 @@ var win_ti = Titanium.UI.createWindow({
   title: 'ti',
   url: 'win_ti.js'
 });
+
 var win_upload = Titanium.UI.createWindow({
   barColor: '#f9c',
   title: 'upload',

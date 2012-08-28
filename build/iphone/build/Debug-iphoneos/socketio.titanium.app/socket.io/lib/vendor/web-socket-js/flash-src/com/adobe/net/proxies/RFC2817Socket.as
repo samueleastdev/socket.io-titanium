@@ -1,1 +1,0 @@
-/Users/samueleast/Documents/Titanium_Studio_Workspace/socket.io-titanium/Resources/socket.io/lib/vendor/web-socket-js/flash-src/com/adobe/net/proxies/RFC2817Socket.as
