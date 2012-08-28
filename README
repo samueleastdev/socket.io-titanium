@@ -205,3 +205,8 @@ Now create a index.html file and add the following.
 ~~~
 
 Now open your index.html file in your browser of choice and also open your app in titanium and your server should now be setup ;)
+
+
+How to setup with heroku 
+https://devcenter.heroku.com/articles/nodejs
+heroku keys:add ~/.ssh/id_rsa.pub
