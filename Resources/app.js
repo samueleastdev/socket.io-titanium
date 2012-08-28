@@ -5,11 +5,6 @@ var win_ti = Titanium.UI.createWindow({
   title: 'ti',
   url: 'win_ti.js'
 });
-var win_web = Titanium.UI.createWindow({
-  barColor: '#963',
-  title: 'webview',
-  url: 'win_webview.js'
-});
 var win_upload = Titanium.UI.createWindow({
   barColor: '#f9c',
   title: 'upload',
@@ -20,10 +15,6 @@ var tabGroup = Titanium.UI.createTabGroup();
 tabGroup.addTab(Titanium.UI.createTab({
   window: win_ti,
   title: win_ti.title
-}));
-tabGroup.addTab(Titanium.UI.createTab({
-  window: win_web,
-  title: win_web.title
 }));
 tabGroup.addTab(Titanium.UI.createTab({
   window: win_upload,
