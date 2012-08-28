@@ -1,7 +1,7 @@
 var win = Titanium.UI.currentWindow;
 
 var io = require('socket.io-titanium');
-var socket = io.connect('169.254.10.100:8080');
+var socket = io.connect('127.0.0.1:8080');
 var image = socket.of('/image');
 
 image.on('download', function(param){
